@@ -12,7 +12,6 @@ Currently deepening my skills with Next.js and React in general, TypeScript, Vit
   <img src="https://img.shields.io/badge/React-red?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Next-deeppink?style=for-the-badge&logo=nextdotjs" />
   <img src="https://img.shields.io/badge/Vite-purple?style=for-the-badge&logo=vite" />
-  <img src="https://img.shields.io/badge/AltSchool-Africa-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Odin-Project-green?style=for-the-badge" />
 </p>
 
@@ -30,9 +29,9 @@ Currently deepening my skills with Next.js and React in general, TypeScript, Vit
 ## 🛠️ Tech Stack
 **Languages:** JavaScript (ESNext), TypeScript, HTML, CSS  
 **Frontend:** Next.js, React, Vite, Tailwind CSS (v4.1)  
-**Routing / Data:** React Router v7, TanStack Router, Next.js Server Action, TanStack Query, Axios  
-**Backend Basics:** Next.js API route, Firebase/Firestore, Prisma, Neon, PostGresq  
-**Tools:** Git, pnpm, VS Code, WSL Ubuntu, Chrome DevTools, Postman
+**Routing / Data:** React Router v7, TanStack Router, Next.js Server Action, TanStack Query, Axios, Zod  
+**Backend Basics:** Next.js API route, Supabase, Prisma, PostGresq
+**Tools:** Git, pnpm, VS Code, Chrome DevTools, Postman, 
 
 ---
 
